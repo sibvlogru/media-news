@@ -3,6 +3,7 @@ layout: single
 title: "Внимание родителей: акция 'Ребенок-пассажир' в селе Барабинск"
 header:
   overlay_image: http://files.lep.solutions/nso-media/tg/novostikb/34299/0.webp
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 categories: society
 ---
 Сотрудники Госавтоинспекции и школьные инспекторы привлекли внимание к проблеме безопасности детей в автомобилях
