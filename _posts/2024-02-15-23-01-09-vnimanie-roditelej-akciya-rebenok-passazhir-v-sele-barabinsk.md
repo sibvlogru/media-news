@@ -1,8 +1,7 @@
 ---
 layout: single
 title: "Внимание родителей: акция 'Ребенок-пассажир' в селе Барабинск"
-
-image: http://files.lep.solutions/nso-media/tg/novostikb/34299/0.webp
+image: "http://files.lep.solutions/nso-media/tg/novostikb/34299/0.webp"
 categories: society
 ---
 Сотрудники Госавтоинспекции и школьные инспекторы привлекли внимание к проблеме безопасности детей в автомобилях
