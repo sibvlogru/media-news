@@ -60,7 +60,7 @@ analytics:
     google: {tracking_id: null, anonymize_ip: null}
 author:
     name: 'Сергей Трифонов'
-    avatar: null
+    avatar: http://files.lep.solutions/nso-media/sites/kuybyshev/Trif.png
     bio: 'Редактор'
     location: Новосибирск
     email: null
