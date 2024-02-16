@@ -1,7 +1,9 @@
 ---
 layout: single
 title: "В сквере 'Воинской славы' вспоминают героев: День памяти о россиянах за пределами Отечества"
-header,  overlay_image: http://files.lep.solutions/nso-media/tg/novostikb/34292/0.webp,  overlay_filter: 0.5
+header:
+  overlay_image: http://files.lep.solutions/nso-media/tg/novostikb/34292/0.webp
+  overlay_filter: 0.5
 categories: society
 ---
 
