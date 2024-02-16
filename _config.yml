@@ -1,9 +1,9 @@
 minimal_mistakes_skin: default
-locale: en-US
+locale: ru-RU
 title: 'Куйбышев сегодня'
 title_separator: '-'
-subtitle: null
-name: 'Your Name'
+subtitle: 'Свежие новости кратко и по существу' 
+name: 'Сергей Трифонов'
 description: 'Новости Куйбышевского района Новосибирской области'
 url: null
 baseurl: null
@@ -59,10 +59,10 @@ analytics:
     provider: false
     google: {tracking_id: null, anonymize_ip: null}
 author:
-    name: 'Your Name'
+    name: 'Сергей Трифонов'
     avatar: null
-    bio: 'I am an **amazing** person.'
-    location: Somewhere
+    bio: 'Редактор'
+    location: Новосибирск
     email: null
     links: [{label: Email, icon: 'fas fa-fw fa-envelope-square'}, {label: Website, icon: 'fas fa-fw fa-link'}, {label: Twitter, icon: 'fab fa-fw fa-twitter-square'}, {label: Facebook, icon: 'fab fa-fw fa-facebook-square'}, {label: GitHub, icon: 'fab fa-fw fa-github'}, {label: Instagram, icon: 'fab fa-fw fa-instagram'}]
 footer:
@@ -120,7 +120,7 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: '/:categories/:title/'
-paginate: 5
+paginate: 10
 paginate_path: '/page:num/'
 timezone: null
 plugins:
